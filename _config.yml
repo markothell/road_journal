@@ -1,0 +1,11 @@
+title: Mark's Road Journal
+url: http://www.markothell.com
+
+permalink: /:year/:month/:title
+
+name: Mark's Road Journal
+
+author:
+    name: Mark Othell Kennedy
+    github: markothell
+        
