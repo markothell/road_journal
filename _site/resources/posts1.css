@@ -15,7 +15,7 @@ body 		{margin:0;	padding:0;}
 
 .divider	{width: 105px;		margin: 25px auto 0px auto}
 
-footer		{margin:55px auto 15px auto;		height:50px;	width:640px}
+footer		{margin:20px auto 35px auto;		height:50px;	width:640px}
 
 h1, h2		{font-family:"nexa light"}
 
@@ -27,7 +27,7 @@ h3			{font-size:14px}
 
 .left		{float:left}
 
-.navText	{margin: 15px 10px 0px 10px}
+.navText	{margin: 6px 10px 0px 10px}
 
 p			{font-size: 14px;	font-family:georgia;	line-height:1.4em}
 

@@ -20,23 +20,24 @@
 		</article>
 		<footer>
 			<div id="page-nav"> 
-				{% if page.next.url %} 
-        			<div class="left"> 
-                		<a href="{{page.next.url}}" title="next Post: {{page.next.title}}">
-                			<div class="left"><img src="/img/butt_left.png"/></div>
-                			<div class="navText left">{{page.next.title}}</div>
-                		</a> 
-       				</div> 
-        		{% endif %} 
         		{% if page.previous.url %}
-        			<div class="right">  
+        			<div class="left">  
                 		<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
-                			<div class="right"><img src="/img/butt_right.png"/></div>
-                			<div class="navText right">{{page.previous.title}}</div>
+                			<div class="left"><img src="/img/butt_left.png"/></div>
+                			<div class="navText left">{{page.previous.title}}</div>
                 		</a> 
         			</div> 
 				{% endif %}
+				{% if page.next.url %} 
+        			<div class="right"> 
+                		<a href="{{page.next.url}}" title="next Post: {{page.next.title}}">
+                			<div class="right"><img src="/img/butt_right.png"/></div>
+                			<div class="navText right">{{page.next.title}}</div>
+                		</a> 
+       				</div> 
+        		{% endif %} 
 			</div> 
+			<hr>
 			<div id="disqus_thread"></div>
    			<script type="text/javascript">
         		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
