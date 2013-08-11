@@ -2,7 +2,7 @@
 layout: post_single
 image: 	img/2013-08-06-settingOut/mapGraphic600.jpg
 headImage: /img/2013-08-06-settingOut/mapGraphic800.jpg
-title: Setting Out
+title: Before Setting Out
 type: photo
 ---
 
@@ -42,7 +42,7 @@ And on more practical matters...
 I know this picture doesn't reveal much to my fellow bike tourers hoping for a gear list. 
 And I may get more into gear selections as the trip goes on but suffice it to say the 
 recent addition of front rack and extra set of panniers has made room for all sorts of 
-extra unnecessaries, though not uncomfortably based on my short test rides. 
+extra unnecessaries, though not uncomfortably so based on my short test rides. 
 Here she is all dressed up.
 
 <div class="img">

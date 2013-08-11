@@ -28,23 +28,28 @@ Sometimes life by bike is just ridiculously great.
 </div>
 
 <div class="img">
+	<img src="/img/2013-08-11-ridiculous/greenLake.jpg"/>
+	<div class="caption">more scenery</div>
+</div>
+
+<div class="img">
 	<img src="/img/2013-08-11-ridiculous/lovesMeNot.jpg"/>
 	<div class="caption">she loves me not</div>
 </div>
 
 <div class="img">
 	<img src="/img/2013-08-11-ridiculous/kitchenByTheWater.jpg"/>
-	<div class="caption">kitchen</div>
+	<div class="caption">kitchen overlooking lake superior</div>
 </div>
 
 <div class="img">
 	<img src="/img/2013-08-11-ridiculous/diningLakeside.jpg"/>
-	<div class="caption">dining room</div>
+	<div class="caption">dining room by the water</div>
 </div>
 
 <div class="img">
 	<img src="/img/2013-08-11-ridiculous/cornSunset.jpg"/>
-	<div class="caption">timeForBed</div>
+	<div class="caption">time for bed</div>
 </div>
 
 

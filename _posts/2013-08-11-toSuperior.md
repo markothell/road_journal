@@ -1,12 +1,16 @@
 ---
 layout: post_single
-headImage: /img/2013-08-09-noisesInTheNight/grassRoadCamp800.jpg
-title: Noises In The Night
-type: text
+image: 	img/2013-08-11-toLakeSuperior/600.jpg
+headImage: /img/2013-08-11-toLakeSuperior/800.jpg
+title: To Lake Superior
+type: photo
 ---
 
-August 9, 2013
+August 11, 2013
 =================
+
+decided to head for apostle islands, turned north, iron river, hayward, namekagen, hitting water, 
+friendly town, future adventures, bayfield, kayaking tomorrow.
 
 Day two offered clear skies and nice roads. I followed county highway 95 up the St. Croix 
 river and crossed into Wisconsin at Falls on the St. Croix. Even before crossing, the landscape started 
@@ -74,7 +78,7 @@ A topic to visit later.
 I was up and back on the road first thing the next morning. All the fields were foggy, the roads empty,
 and looking into the distance it was like I was above the clouds.
 
-And after my little scare in the night, what just happened to cross my path soon after sunrise? A black bear!
+And after my little scare in the night guess what crossed my path soon after sunrise. A black bear!
 He was a little guy, maybe two feet tall. We both stopped and looked at eachother. I reached 
 for my camera and he dashed off. 
 
