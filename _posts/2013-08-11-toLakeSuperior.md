@@ -56,5 +56,8 @@ into Bayfield to enjoy a day sitting still.
 	<div class="caption">my spot at dalrymple park campground</div>
 </div>
 
+I'll spend tomorrow on the water seeing the sea caves of Apostle Islands National Lakeshore 
+then it's back on the road!
+
 
 
