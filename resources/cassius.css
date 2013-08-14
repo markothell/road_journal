@@ -48,17 +48,3 @@ body 		{margin:0;	padding:0}
 .titOverlay	{background:#FFF;	opacity:.75;	height:60px;	width:100%;		position:absolute;
 			bottom:0px;		padding-left:15px;		box-sizing:border-box;	padding-top: 15px;}
 
-@media only screen and (min-width: 500px) and (max-width: 767px) {
-	
-	.bgFix		{background:0;		height:75px}
-	.ctrBox2	{margin:auto;		width:305px;	height:75px}
-	
-	#leftCol	{margin-top:0px;	width:100%;		height:75px;		position:fixed;	background:#353535;
-				z-index: 80;			border-bottom-style:solid;		border-color:#575757}
-				
-	#postCol 	{margin-top:50px;	width:100%;		position:absolute;	z-index:0}	
-	
-	#titFix		{margin-top:10px;	background:0;	padding-top:0}
-	
-	
-}
