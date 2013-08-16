@@ -34,6 +34,11 @@ Day trip to the sea caves on the Apostle Islands National Lakeshore.
 </div>
 
 <div class="img">
+	<img src="/img/2013-08-12-ApostleIslands/selfKayak.jpg"/>
+	<div class="caption">hello</div>
+</div>
+
+<div class="img">
 	<img src="/img/2013-08-12-ApostleIslands/cliffs2.jpg"/>
 	<div class="caption">more cliffs</div>
 </div>
