@@ -37,5 +37,7 @@ p			{font-size: 14px;	font-family:georgia;	line-height:1.4em}
 
 .right		{float:right}
 
+table		{cellpadding-left:3;	cellpadding-right:3;}
+
 #title		{margin-top:-12px;	right:5px;		position:absolute}
 
