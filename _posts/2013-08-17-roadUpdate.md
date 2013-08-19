@@ -33,7 +33,7 @@ barely holding onto their place in the world. Enjoying some simple head-down bik
 Here's a chart of my day by day progress with camping locales and milage covered
 
 |Day	|Date	|Camping Location	|Distance Covered |
-| ----- | ----- | ----------------- | --------------- |
+| ----- | ----- | ----------------- | :-------------: |
 |1	|7-Aug	|Marine on St. Croix, MN	|64 |
 |2	|8-Aug	|Polk County Forest, WI		|50 |
 |3	|9-Aug	|Cable, WI ??				|75 |
