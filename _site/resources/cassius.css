@@ -3,10 +3,12 @@ a:hover 	{color:black}
 a:active	{color:black}
 a:visited	{color:black}
 
+#avatar		{position:fixed;	left:286px;			top:10px;	z-index:10}
+
 body 		{margin:0;	padding:0}
 
 .bgFix		{width:304px;		height:100%;		background:url(../img/home/bikeBridge_tall.jpg);	position:fixed;
-			border-right:solid;	border-width:3px}
+			border-right:solid;	border-width:3px;	background-repeat:no-repeat}
 			
 .ctrBox		{margin:auto;		width:600px}
 
@@ -14,13 +16,13 @@ body 		{margin:0;	padding:0}
 
 .divider	{width:500px;		margin-top:50px;	margin-left:50px;	border-bottom:solid;	border-width:2px}
 
-#leftCol	{top:0; 			position:fixed;		width:304px;		height:100%;}
+#leftCol	{top:0; 			position:fixed;		width:304px;		height:100%;			z-index:2}
 
 .picBox		{float:left;		width:66px}
 
 .postBox	{margin-top:50px;	position:relative}
 
-#postCol 	{margin-left:304px;	margin-top:50px;	position:relative}
+#postCol 	{margin-left:304px;	margin-top:50px;	position:relative;	z-index:0}
 
 .postTit	{font-size:30px;	font-family:"nexa light"}
 
@@ -41,6 +43,9 @@ body 		{margin:0;	padding:0}
 #tit		{position:fixed;	z-index: 10;	padding-top: 8px;		margin-top:10px;
 			width:304px;}
 
+#titBg		{background:#FFF;	opacity:.75;	height:65px;	width:100%;		position:absolute;
+			box-sizing:border-box}
+
 .titBox		{float:left;	width: 468px;		text-align: center;		margin-top: 17px}
 
 #title 		{z-index: 12;  	font-size: 41px; 	position:relative;	color:#000; 	font-family:"Arial Rounded MT Bold";}
@@ -48,3 +53,22 @@ body 		{margin:0;	padding:0}
 .titOverlay	{background:#FFF;	opacity:.75;	height:60px;	width:100%;		position:absolute;
 			bottom:0px;		padding-left:15px;		box-sizing:border-box;	padding-top: 15px;}
 
+@media only screen and (max-width: 900px) {
+
+	#avatar		{position:absolute;	left:-74px;	top:-6px}
+	
+	.bgFix		{background:url(../img/home/bikeBridge_wide2.jpg);		width:100%;			height:130px; 	
+				position:relative}
+	.ctrBox2	{margin-left:60%;	width:305px;	height:75px;		top:14px}
+	
+	#leftCol	{margin-top:0px;	width:100%;		height:130px;		position:relative;		background:#353535;
+				z-index: 80;			border-bottom-style:solid;		border-color:#575757}
+				
+	#postCol 	{margin-top:50px;	margin-left:10%;	width:80%;		position:relative;	z-index:0}	
+	
+	#titBg		{padding-left:15px}
+	
+	#titFix		{margin-top:10px;	left:0px;			background:0;	padding-top:0}
+	
+	
+}

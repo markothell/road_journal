@@ -10,14 +10,18 @@
       <div id="leftCol">
 			<div class="bgFix">
 				<div class="ctrBox2">
-					<span id="title">Road Journal</span><br/>
-					<span id="subtit">minneapolis to pittsburgh</span>
+					<div id="avatar"><img src="img/home/bikeAvatar.png"/></div>
+					<div id="titBg">
+						<span id="title">Road Journal</span><br/>
+						<span id="subtit">minneapolis to pittsburgh</span>
+					</div>
 				</div>
 			</div>
 		</div>
 
 		<div id="postCol">
 			<div class="ctrBox">
+			
 				{% for post in site.posts %}
 					{% if post.type == "photo" %}
  						<div class="postBox">
