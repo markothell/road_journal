@@ -36,7 +36,6 @@ saw a sign for an organic bakery and excitedly pulled in for some sweets.
 
 <div class="img">
 	<img src="/img/2013-08-25-dayOfBirth/bakery.jpg"/>
-	<div class="caption"></div>
 </div>
 
 Surrounding the small bakery were gardens and walking trails, open grass and rope swings. Surprise,
@@ -45,12 +44,10 @@ spread of twisted branches.
 
 <div class="img">
 	<img src="/img/2013-08-25-dayOfBirth/harvestGarden.jpg"/>
-	<div class="caption"></div>
 </div>
 
 <div class="img">
 	<img src="/img/2013-08-25-dayOfBirth/harvestSnacks.jpg"/>
-	<div class="caption"></div>
 </div>
 
 As I sat eating, I realized that this would be an ideal place to spend the day. Again I felt tension 
@@ -81,12 +78,10 @@ clear blue water I had ever seen. I sat on the white stone shore and had another
 
 <div class="img">
 	<img src="/img/2013-08-25-dayOfBirth/isthmusBay.jpg"/>
-	<div class="caption"></div>
 </div>
 
 <div class="img">
 	<img src="/img/2013-08-25-dayOfBirth/isthmusFeet.jpg"/>
-	<div class="caption"></div>
 </div>
 
 <div class="divider">---------------------</div>
@@ -118,5 +113,3 @@ day of celebration and welcome me into the next phase of my life.
 	<img src="/img/2013-08-25-dayOfBirth/meChris.jpg"/>
 	<div class="caption">many thanks to this kind fellow</div>
 </div>
-<div class="divider">---------------------</div>
-

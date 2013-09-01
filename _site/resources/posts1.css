@@ -14,7 +14,7 @@ body 		{margin:0;	padding:0;}
 
 #content	{margin-top:150px;	width:80%;		margin-left:10%}
 
-.divider	{width: 105px;		margin: 25px auto 0px auto}
+.divider	{width: 105px;		margin: 25px auto 25px auto}
 
 footer		{margin:20px auto 35px auto;		height:50px;	width:640px}
 
@@ -22,7 +22,7 @@ h1, h2		{font-family:"nexa light"}
 
 h3			{font-size:14px}
 
-#home		{position: fixed;	margin: 7px 0px 0px 19px;	z-index:100;	background:#FFF;	opacity:.8;
+#home		{position: fixed;	margin: 7px 0px 0px 7px;	z-index:100;	background:#FFF;	opacity:.8;
 			height: 34px;		width: 34px;}
 
 .img		{margin:50px 0px 40px 0px}
