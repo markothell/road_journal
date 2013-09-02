@@ -104,7 +104,7 @@ clear blue water I had ever seen. I sat on the white stone shore and had another
 Chris and I had dinner and talked into the night. I was inspired to hear about his work and family, 
 to find that he was living so many of my aspirations. After dark, sitting lakeside by the fire, 
 I pondered at the sequence of events. Why, though I struggled to ask for it, had I been provided 
-with such abundance? 
+with such abundance? (That's me the baby staring in wonder. Am I involved in this?)
 
 I went to bed humbled and grateful, feeling like the universe had conspired to give me a spectacular 
 day of celebration and welcome me into the next phase of my life.
