@@ -58,7 +58,7 @@ body 		{margin:0;	padding:0}
 	#avatar		{position:absolute;	left:-74px;	top:-6px}
 	
 	.bgFix		{background:url(../img/home/bikeBridge_wide2.jpg);		width:100%;			height:130px; 	
-				position:relative}
+				position:relative; 	background-repeat:no-repeat}
 	.ctrBox2	{margin-left:60%;	width:305px;	height:75px;		top:14px}
 	
 	#leftCol	{margin-top:0px;	width:100%;		height:130px;		position:relative;		background:#353535;
